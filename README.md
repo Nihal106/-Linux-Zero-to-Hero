@@ -1,10 +1,13 @@
-# Linux-Zero-to-Hero
-
 <div align="center">
 
 # 🐧 Linux Zero to Hero  
 ### A complete beginner-to-advanced guide to mastering Linux & system administration.
 
+![Stars](https://img.shields.io/github/stars/Nihal106/-Linux-Zero-to-Hero?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/Nihal106/-Linux-Zero-to-Hero?style=for-the-badge)
+![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Platform-Linux-orange?style=for-the-badge)
+![Made With](https://img.shields.io/badge/Made%20With-Bash%20%7C%20Linux-blueviolet?style=for-the-badge)
 
 </div>
 
