@@ -51,25 +51,25 @@ Use q to exit man pages.
   touch a.txt b.txt c.txt
   ```
 * Copy 1 file to /tmp
-```bash
-cp a.txt /tmp/
-```
+  ```bash
+  cp a.txt /tmp/
+  ```
 * Delete one file
-```bash
-rm c.txt
-```
+  ```bash
+  rm c.txt
+  ```
 * Move folder to /home/<yourname>/practice
-```bash
-mv ~/day1 /home/<yourname>/practice 
-```
+  ```bash
+  mv ~/day1 /home/<yourname>/practice 
+  ```
 
 ## ✔ Task 3: Explore System
 
 * Run:
-```bash
-ls /  # List Root Directory
-whoami # Show Current Logged-In User
-hostnamectl # System Hostname & OS Details
-uname -r # Show Kernel Version
-uptime # Show System Uptime
-```
+  ```bash
+  ls /  # List Root Directory
+  whoami # Show Current Logged-In User
+  hostnamectl # System Hostname & OS Details
+  uname -r # Show Kernel Version
+  uptime # Show System Uptime
+  ```
